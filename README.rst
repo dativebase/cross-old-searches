@@ -16,9 +16,9 @@ http://www.onlinelinguisticdatabase.org.
 Usage
 ================================================================================
 
-.::
+::
 
-    $ python cross-old-searches.py
+    $ ./cross-old-searches.py
 
 The script will prompt you for your username and password. Note that you must
 have the same username and password for all of the OLDs you are searching over,
@@ -39,6 +39,14 @@ in one of their translation values.::
             ['Form', 'translations', 'transcription', 'regex', '(^| )([qQ]uickly)($| )']
         ]
     ]
+
+
+Screenshots
+================================================================================
+
+.. image:: interface-1.png
+.. image:: interface-2.png
+.. image:: interface-3.png
 
 
 Dependencies
